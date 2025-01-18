@@ -17,6 +17,7 @@ This is a part of the Illumio coding assessment - `FlowLogProcessor` is the main
 ```bash
 python main.py --input flow_logs.txt --lookup lookup.csv --output results.txt
 ```
+Note:You can use your own flow_logs.txt and lookup.csv, the ones added in this project are just sample files provided in the question(over email)
 
 ### Input Files
 
